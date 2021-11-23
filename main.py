@@ -1,2 +1,2 @@
 print("labdien")
-print("uzredzēšanos"
+print("uzredzēšanos")
