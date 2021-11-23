@@ -1,1 +1,2 @@
 print("labdien")
+print("ja")
